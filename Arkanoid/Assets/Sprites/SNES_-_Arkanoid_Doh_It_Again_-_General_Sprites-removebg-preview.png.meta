@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 6f37a184987af8446964107c831cad06
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 233
+        width: 214
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc85665e20005f468cbd324c8f5dd52
+      internalID: 1787976953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 236
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2528fa54e6903724bae3e544e7b3871b
+      internalID: -715059283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1f320fd6d61874ab9535f47a9ef4b8
+      internalID: -1737268956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 163
+        width: 45
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5539017, y: 0.45687866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476450510bf38e04ea47552b571e2289
+      internalID: -679102569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 197
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf62996ba56fa4ebbc701fc9116bef
+      internalID: -382369146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 196
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af21b5a2fdad046b5da7d1ddd084d1
+      internalID: -1184407848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 197
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909d88519eda6e408c28b718da4d11e
+      internalID: 2058320689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 196
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d65be8b32b76546a2eb3132eba52bb
+      internalID: 1069130575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 196
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee60b2f16c90c3489336b6fa7d5db20
+      internalID: -858155679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 197
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4297106d02d02549b7cac44a1594f6f
+      internalID: -158825511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 197
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a9fe85b3ce664a806418eb8a24585
+      internalID: 1089125266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 196
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769a10f6e0667794b91f5041fd8deda9
+      internalID: 117211389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 167
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd209ff3dc084e4e8cad3947adc31c5
+      internalID: -125904298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409109d25eb0c9418e3f20f7f281260
+      internalID: 454411337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 167
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d52dd1489e7b34898222813e04bdd8
+      internalID: 1226114971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 167
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd816a62bc89c4ebcaddbc7fe79ce5
+      internalID: 753770337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 122
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3429461d88415846a083e38807de7f9
+      internalID: -1671346905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 145
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbea9f8692b8e1448bdc525f3534104a
+      internalID: 2146333565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 145
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2753ba05eea58e8408d8aac46737a0d7
+      internalID: 1347547698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 145
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688abbe93ac346e46b0938ffa53710ba
+      internalID: -1043340439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 122
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fbaf9ddd47abc48bf626df9ff7724d
+      internalID: -1915961073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9490015953b46db4d9cde6e750caf472
+      internalID: 1640441980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 122
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fda733205a6440bda52132afde462
+      internalID: -738041734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 196
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1664d66598a2c4eb4e1156b06fa419
+      internalID: -1818370641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 116
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d6829b6ed54694ebb6d23f6bdd0b0d
+      internalID: -549802861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad67b6491a043240b17fcb5942d2b7b
+      internalID: 471157197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 117
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcb21c8401afe145a49a57a34b07338
+      internalID: -1451707242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 183
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df5134e08c08f4458c38a6bff219812
+      internalID: 1349640750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 117
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd816caf9a8634542a9941cc87eb0e69
+      internalID: -748412888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 195
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5259a4ed35421b449961b08ea34993db
+      internalID: -1243047347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 116
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9a95890edb6f4aba5768081d4e687
+      internalID: -1071801330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 116
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90b718f1c9fc04da3781d01af1347d
+      internalID: -1858828005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 116
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70999f98f2e525541ab0df9d7acfe063
+      internalID: -708140762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 116
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55e304f2ce4e40489f49489d9fc557a
+      internalID: 1448264235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 100
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3f602e6ef247343ac7a8453058d522
+      internalID: 55144267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 100
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01c2d639df0594f8a9cd50618b81f6
+      internalID: 1198558210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 101
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ef38e98806d2842ad8eeb3f0b5e896
+      internalID: -1642646378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 101
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03deb95461c8d54083252b1a4de8150
+      internalID: 1389086568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 99
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85feede817f9b84b86e87624b46db9a
+      internalID: -970337388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 99
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1211a9ddc56994192c6a80bb036f66
+      internalID: -563375380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 99
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5907044401d1ba64989b270df41fabae
+      internalID: 1404799355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 99
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f5594be08635a42977638e5a1d4fc8
+      internalID: -838226393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 100
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dba5fa300a4d6458dad2b875a333e6
+      internalID: -1446511745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 73
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108ecdc1ef985144a920e0efb859f68b
+      internalID: -79169438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 74
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff69e37f3f0bff4f9df4c8963792781
+      internalID: 1152893283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 73
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fd5eac78d355c4aab665593f68e9f9
+      internalID: 769172099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 73
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dff816db5c02dc48bb630aaf66bc615
+      internalID: 1346587804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 50
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35723a1a651650241be133db5166585a
+      internalID: -1829332807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b4f65d86f99c4428ae7b7deca07336
+      internalID: 1650354581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 51
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06caaee34396a924e81e8714aeb7ee4f
+      internalID: 1015821608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 51
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f60e320f4d386746a1d1f7770811634
+      internalID: -1808212712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31938fbab2cd8a548b67d94d6065beb6
+      internalID: 1991544578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df76af552beac644d81d69bf746258aa
+      internalID: 1030689853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 28
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8c09af1e78ce4d8c056bad564c0f3
+      internalID: 666614470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 28
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97952093092d38744bd07f4bd2c94650
+      internalID: -1052223636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 28
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e36e33beb6150e4691b9410f0545418
+      internalID: -1422255154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 6
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a5d66c5b77474c83e3ddbd47db84d
+      internalID: 2077972719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 6
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05cc40a6e53fea41ae77db0920ff2ae
+      internalID: -1760478131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7427fc69dcd944283f8414fa5662ff
+      internalID: -1646150849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 7
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3ac8b0ad85ba4a9ceff9465abd12e
+      internalID: -1860103824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_14: 1226114971
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_23: -1818370641
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_54: -1052223636
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_41: -838226393
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_47: -1829332807
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_38: -970337388
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_57: -1760478131
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_56: 2077972719
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_34: 55144267
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_32: -708140762
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_26: -1451707242
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_16: -1671346905
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_20: -1915961073
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_36: -1642646378
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_9: -158825511
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_45: 769172099
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_5: -1184407848
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_3: -679102569
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_28: -748412888
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_25: 471157197
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_13: 454411337
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_39: -563375380
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_33: 1448264235
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_35: 1198558210
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_37: 1389086568
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_48: 1650354581
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_7: 1069130575
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_1: -715059283
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_19: -1043340439
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_17: 2146333565
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_53: 666614470
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_44: 1152893283
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_40: 1404799355
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_24: -549802861
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_21: 1640441980
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_31: -1858828005
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_59: -1860103824
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_0: 1787976953
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_6: 2058320689
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_30: -1071801330
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_43: -79169438
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_55: -1422255154
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_50: -1808212712
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_51: 1991544578
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_10: 1089125266
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_58: -1646150849
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_29: -1243047347
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_27: 1349640750
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_46: 1346587804
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_4: -382369146
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_18: 1347547698
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_49: 1015821608
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_2: -1737268956
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_15: 753770337
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_22: -738041734
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_8: -858155679
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_12: -125904298
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_42: -1446511745
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_52: 1030689853
+      SNES_-_Arkanoid_Doh_It_Again_-_General_Sprites-removebg-preview_11: 117211389
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
