@@ -5,46 +5,35 @@ using UnityEngine.UI;
 
 public class BallBehaviour : MonoBehaviour
 {
-    [SerializeField]
-    Vector3 direction;
-    [SerializeField]
-    float speed = 6f;
     
-
-
+    public float speed = 20f;
+    [SerializeField]
+    Rigidbody2D rBodyBall;
+    public Vector2 velocity;
+    Vector2 startPosition;
+    
     void Start()
     {
-        direction.y = -1f;   
+        startPosition = transform.position;
+        ResetBall();
     }
-
-    void Update()
+    public void OnCollisionEnter2D(Collision2D coll)
     {
-        transform.position += direction * Time.deltaTime * speed;
-    }
 
-    void OnCollisionEnter2D(Collision2D col)
-    {
-        if (col.gameObject.tag == "Bloque")
+        if(coll.gameObject.CompareTag("GameOver"))
         {
-            direction.x = Random.Range(1, -1f);
-            direction.y = direction.y * -1f;
-            Destroy(col.gameObject);
-        }
-        else if (col.gameObject.tag == "Player")
-        {
-            direction.x = direction.x * 1;
-            direction.y = Random.Range(1f, -1f);
-        }
-        else if (col.gameObject.tag == "Borde")
-        {
-            direction.x = direction.x * 1;
-            direction.y = Random.Range(1f, 1f);
+            FindObjectOfType<GameManager>().PerderVidas();
+
         }
     }
-   void OnTriggerEnter2D(Collider2D collision)
-   {
-        Debug.Log("has perdido", gameObject);
+    public void ResetBall()
+    {
+        transform.position = startPosition;
+        rBodyBall.velocity = Vector2.zero;
+        velocity.x = Random.Range (-1f, 1f);
+        velocity.y = 1;  
+        rBodyBall.AddForce(velocity*speed); 
         
-   }
+    }
 
 }
