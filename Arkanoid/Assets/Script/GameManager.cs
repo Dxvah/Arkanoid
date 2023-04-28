@@ -27,6 +27,9 @@ public class GameManager : MonoBehaviour
 
         FindObjectOfType<BallBehaviour>().ResetBall();
         FindObjectOfType<PlayerMovement>().ResetPlayer();
+        
+
+        
     }
 
 
